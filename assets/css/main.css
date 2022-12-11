@@ -1,0 +1,40 @@
+footer{
+	width: 100%;
+	background-color:#03A9F4;
+	color: #fff;
+	padding: 10px 30px;
+/*	line-height:100px;*/
+}
+footer a{
+	color: #fff;
+}
+footer a:hover{
+	color: #F0F0F0;
+	text-decoration:underline;
+}
+#content{
+	min-height: 540px;
+	padding:0 30px;
+	text-align: center;
+}
+/*#content button[class*="am-btn"]{
+	margin-top: 0px;
+}*/
+.am-topbar .am-text-ir {
+	  display: block;
+	  margin-right: 10px;
+	  height: 50px;
+	  width: 125px;
+	  background: url(https://o229eqtim.qnssl.com/wp-content/themes/Git-master/img/logo.png) no-repeat left center;
+	  -webkit-background-size: 125px 24px;
+	  background-size: 125px 24px;
+	}
+.nav_login_re a{
+	color:#fff;
+}
+#footerico{
+	float: right;
+}
+#footerico:after{
+	clear: both;
+}
